@@ -7,22 +7,22 @@ As a seasonal developer, I write backend microservices in Golang and Node.js, an
 
 ## 🛠️ Technologies I Work With
 ### 🌐 Cloud & DevOps:
-✅ AWS, Kubernetes, Docker, Terraform, Linux, GitHub
-✅ CI/CD, Monitoring, Observability
-✅ Istio Service Mesh, DNS Management
+- AWS, Kubernetes, Docker, Terraform, Linux, GitHub
+- CI/CD, Monitoring, Observability
+- Istio Service Mesh, DNS Management
 
 ### 💻 Backend & Databases:
-✅ Golang, Node.js, Express.js
-✅ PostgreSQL, MongoDB, Elasticsearch
+- Golang, Node.js, Express.js
+- PostgreSQL, MongoDB, Elasticsearch
 
 ### 📊 Monitoring & Analytics:
-✅ Prometheus, Grafana, Opentelemetry
+- Prometheus, Grafana, Opentelemetry
 
 ### 🎨 Frontend & CMS:
-✅ React, Next.js, Strapi CMS
+- React, Next.js, Strapi CMS
 
 ### 🔗 Web3 & Blockchain:
-✅ Ethereum, Solana
+- Ethereum, Solana
 
 ### 📫 Reach Me Here:
 🐦 [Twitter(@svnaditya)](https://x.com/svnaditya) |
