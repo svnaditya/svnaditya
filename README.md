@@ -23,3 +23,7 @@ As a seasonal developer, I write backend microservices in Golang and Node.js, an
 
 ### 🔗 Web3 & Blockchain:
 ✅ Ethereum, Solana
+
+### 📫 Reach Me Here:
+🐦 [Twitter(@svnaditya)](https://x.com/svnaditya) |
+📧 Email (svn.aditya1997@gmail.com)
