@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aditya Narayan
-## Generalist Engineer | DevOps | SRE | Backend Developer
+## Generalist Engineer | DevOps | SRE | AWS Solutions Architect
 
 I specialize in building scalable and highly available cloud-native solutions. With a strong foundation in DevOps/SRE, I have experience designing CI/CD pipelines, automating cloud infrastructure with Terraform, and managing Kubernetes and AWS environments.
 
